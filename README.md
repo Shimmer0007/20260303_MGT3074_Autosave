@@ -5,21 +5,6 @@
 
 ---
 
-## 🌟 Features / 核心功能
-
-* **Real-time Auto-Save** : Automatically saves your inputs in `textarea`, `input`, and `select` fields to the browser's local storage as you type.
-  **实时自动保存** ：在你打字时，自动将 `textarea`、`input` 和 `select` 字段中的输入保存到浏览器的本地存储中。
-* **Intelligent Week Detection** : Uses multiple strategies to identify the current worksheet week (e.g., Week 6, Week 7) to ensure data is stored in isolated partitions.
-  **智能周次检测** ：使用多种策略识别当前的 Worksheet 周数（如 Week 6, Week 7），确保数据在隔离的分区中存储。
-* **React State Compatibility** : Bypasses React's virtual DOM restrictions using native setters and event dispatching, ensuring the web app recognizes the restored content.
-  **React 状态兼容** ：使用原生 Setter 和事件分发绕过 React 的虚拟 DOM 限制，确保网页应用能识别恢复的内容。
-* **SPA Support** : Automatically detects page updates and restores content when switching between weeks in the Single Page Application (SPA).
-  **SPA 支持** ：在单页面应用（SPA）中切换不同周次时，自动检测页面更新并恢复内容。
-* **Data Management** : Features a Floating Action Button (FAB) and management panel to export data to JSON, delete specific weeks, or clear all records.
-  **数据管理** ：提供悬浮按钮（FAB）和管理面板，支持将数据导出为 JSON、删除特定周次数据或清空所有记录。
-
----
-
 ## 🛠 Installation / 安装步骤
 
 1. **Download** the extension folder to your computer.
