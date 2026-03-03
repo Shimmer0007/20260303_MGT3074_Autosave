@@ -24,8 +24,8 @@
 
 1. **Download** the extension folder to your computer.
    **下载** 扩展程序文件夹到你的电脑。
-2. Open **Edge browser** and navigate to `edge://extensions/`.
-   打开  **Edge 浏览器** ，访问 `edge://extensions/`。
+2. Open **Edge browser** and navigate to `edge://extensions/`. (If you use Chrome, please navigate to `chrome://extensions/`)
+   打开  **Edge 浏览器** ，访问 `edge://extensions/`。（如果你使用 Chrome，请访问 `chrome://extensions/`）
 3. Enable **Developer mode** in the bottom left corner.
    开启左下角的 **“开发人员模式”** 。
 4. Click **Load unpacked** and select the extension folder.
